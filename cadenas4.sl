@@ -11,5 +11,10 @@
 (constraint (= (f "bearing a bowl of lather on which a mirror and a razor lay crossed.") 14))
 (constraint (= (f "A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air.") 10))
 (constraint (= (f "He held the bowl aloft and intoned:") 6))
+(constraint (= (f "Solemnly he came forward and mounted the round gunrest.") 8))
+(constraint (= (f "He faced about and blessed gravely thrice the tower, the surrounding land and the awaking mountains") 19))
+(constraint (= (f "Then, catching sight of Stephen Dedalus") 5))
+(constraint (= (f "he bent towards him and made rapid crosses in the air, gurgling in his throat and shaking his head.") 17))
+
 
 (check-synth)
